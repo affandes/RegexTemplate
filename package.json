@@ -2,7 +2,7 @@
   "name": "regextemplate",
   "version": "1.0.0",
   "description": "Regex pattern yang dapat digunakan dan terstandar.",
-  "main": "js/regex-template.js",
+  "main": "js/regex-template.common.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
