@@ -1,0 +1,29 @@
+{
+  "name": "regextemplate",
+  "version": "1.0.0",
+  "description": "Regex pattern yang dapat digunakan dan terstandar.",
+  "main": "js/regex-template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affandes/RegexTemplate.git"
+  },
+  "keywords": [
+    "regex",
+    "regex",
+    "template",
+    "affandes"
+  ],
+  "author": {
+    "name": "Muhammad Affandes",
+    "email": "affandes@gmail.com",
+    "web": "http://twitter.com/affandes"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/affandes/RegexTemplate/issues"
+  },
+  "homepage": "https://github.com/affandes/RegexTemplate#readme"
+}
