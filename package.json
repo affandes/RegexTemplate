@@ -1,6 +1,6 @@
 {
   "name": "regextemplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Regex pattern yang dapat digunakan dan terstandar.",
   "main": "js/regex-template.common.js",
   "scripts": {
